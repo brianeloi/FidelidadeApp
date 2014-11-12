@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FidelidadeApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="buscar_cliente">Buscar Cliente</string>
+    <string name="title_activity_visualizar_cliente_admin">Visualizar Cliente_admin</string>
+    <string name="textoEntrar">Entrar com o Facebook</string>
+
+</resources>
